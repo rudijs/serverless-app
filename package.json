@@ -1,0 +1,25 @@
+{
+  "name": "serverless-app",
+  "version": "1.0.0",
+  "description": "AWS Serverless App",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudijs/serverless-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudijs/serverless-app/issues"
+  },
+  "homepage": "https://github.com/rudijs/serverless-app#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0"
+  }
+}
